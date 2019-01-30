@@ -4,5 +4,6 @@
   "bumpVersion": "patch",
   "major": {
     "enabled": false
-  }
+  },
+  "prHourlyLimit": 2
 }
