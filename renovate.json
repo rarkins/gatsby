@@ -1,7 +1,6 @@
 {
   "extends": ["config:base"],
   "includePaths": ["starters/**"],
-  "bumpVersion": "patch",
   "major": {
     "enabled": false
   },
