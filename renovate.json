@@ -1,0 +1,10 @@
+{
+  "extends": ["config:base"],
+  "includePaths": ["starters/**"],
+  "bumpVersion": "patch",
+  "major": {
+    "enabled": false
+  },
+  "prHourlyLimit": 2,
+  "rangeStrategy": "bump"
+}
